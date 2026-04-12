@@ -22,3 +22,8 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Updated CI cache strategy
 - Reorganised test fixtures
+
+## 2026-04-12
+- Bumped patch version
+- Refactored module structure for clarity
+- Reorganised test fixtures
