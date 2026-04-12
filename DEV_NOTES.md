@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 - Improved error handling in edge cases
 - Addressed feedback from self code review
 - Added type hints to helper functions
+
+## 2026-04-12
+- Tidied up project structure
+- Updated CI cache strategy
+- Reorganised test fixtures
