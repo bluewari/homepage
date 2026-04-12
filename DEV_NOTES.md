@@ -12,3 +12,8 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Added inline documentation for core functions
 - Pinned dependency versions for reproducibility
+
+## 2026-04-12
+- Improved error handling in edge cases
+- Addressed feedback from self code review
+- Added type hints to helper functions
